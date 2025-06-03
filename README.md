@@ -1,5 +1,5 @@
 ### ✨ Who am I?
-My name is Alex Seriakov and I’m Full stack developer.
+My name is Oleksii Sieriakov and I’m Full stack developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-seriakov-a2bb94277) 
