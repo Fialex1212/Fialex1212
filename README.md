@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oleksii Sieriakov</h1>
+<h1 align="center">Hi 👋, I'm Aleks Sieriakov</h1>
 <h3 align="center">Self-taught Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
@@ -64,9 +64,9 @@
 
 ### 📫 Contact Me
 
-- Email: oleksii.sieriakov.dev@gmail.com
-- Telegram: [@fialex1212](https://t.me/fialex1212)
-- LinkedIn: [linkedin.com/in/fialex1212](https://linkedin.com/in/fialex1212)
+- Email: aleks.seriakov@gmail.com
+- Telegram: [@fialex1212](https://t.me/TrueKanekiGhoul1000_7)
+- LinkedIn: [linkedin.com/in/fialex1212](https://www.linkedin.com/in/alex-seriakov-a2bb94277/)
 
 ---
 
