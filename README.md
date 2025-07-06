@@ -46,8 +46,6 @@ My name is Oleksii Sieriakov and I’m Full stack developer.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fialex1212&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fialex1212&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fialex1212&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
