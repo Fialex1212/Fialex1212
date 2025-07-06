@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oleksii Sieriakov <span>(aka Nicho)</span></h1>
+<h1 align="center">Hi 👋, I'm Oleksii Sieriakov</h1>
 <h3 align="center">I'm a passionate, self-taught full-stack developer and problem-solver</h3>
 
 ---
