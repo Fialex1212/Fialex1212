@@ -1,8 +1,15 @@
-### ✨ Who am I?
-My name is Oleksii Sieriakov and I’m Full stack developer.
+<h1 align="center">Hi 👋, I'm Oleksii Sieriakov <span>(aka Nicho)</span></h1>
+<h3 align="center">I'm a passionate, self-taught full-stack developer and problem-solver</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-seriakov-a2bb94277) 
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on **modern web apps using React, Next.js and FastAPI**
+- 🌱 I’m learning **FastAPI, Dajngo, backend design, and security**
+- 💬 Ask me about **Python, JavaScript, TypeScript, Backend or Frontend**
+
+---
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
