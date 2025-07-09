@@ -16,7 +16,12 @@
 
 - [🎵 Music App (SoundCloud Clone)](https://github.com/fialex1212/your-music-app) – Microservice architecture, FastAPI + Next.js
 - [🛍️ E-commerce Platform](https://github.com/fialex1212/ecommerce-app) – Django backend, React frontend
-- [🕵️ Spy Cats](https://github.com/fialex1212/spy-cats) – A fun FastAPI project with mission-based logic
+- [🌐 Blog App](https://github.com/Fialex1212/django-nextjs-blog) – Django backend, Next.js frontend, JWT Auth
+- [🌐 Webchat App](https://github.com/Fialex1212/django-nextjs-webchat) – Django backend, Next.js frontend, Webscoker
+- [🕵️ Spy Cats Frontend](https://github.com/fialex1212/spy-cats) – A fun frontend Next.js project with mission-based logic
+- [🕵️ Spy Cats Backend](https://github.com/fialex1212/spy-cats) – A fun backend FastAPI project with mission-based logic
+- [🎨 Color Picker](https://github.com/Fialex1212/nextjs-color-picker) – A interesting Next.js project with color picker logic
+- [🎯 Todo App](https://github.com/Fialex1212/fastapi-react-todo) – A easy FastAPI & Next.js Todo App
 
 ---
 
